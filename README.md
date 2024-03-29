@@ -18,10 +18,10 @@ An intuitive graphical user interface is developed using Streamlit, a Python lib
 
 ## ScreenShots
 ##### i. Home Page
-![1  Home](https://github.com/anoopgupta112/HR-DashBoard/blob/main/Visualization%20(Images)/Home.png)
+![1  Home](https://github.com/anoopgupta112/Flower-Classification/blob/master/Screenshots/sample_home_page.png)
 
 #### ii. Output
-![2  Action](https://github.com/anoopgupta112/HR-DashBoard/blob/main/Visualization%20(Images)/Action.png)
+![2  Action](https://github.com/anoopgupta112/Flower-Classification/blob/master/Screenshots/sample_output.png)
 
 
 
